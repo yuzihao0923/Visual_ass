@@ -1,53 +1,54 @@
 name,post_office_count
-Alaska,542
-Alabama,5443
-Arkansas,4948
-Arizona,887
-California,4297
-Colorado,2438
-Connecticut,780
+AK,542
+AL,5443
+AR,4948
+AZ,887
+CA,4297
+CO,2438
+CT,780
 DC,32
-Delaware,256
-Florida,3014
-Georgia,5754
-Hawaii,192
-Iowa,3982
-Idaho,1324
-Illinois,5358
-Indiana,4138
-Kansas,4260
-Kentucky,7432
-Louisiana,3075
+DE,256
+FL,3014
+GA,5754
+HI,192
+IA,3982
+ID,1324
+IL,5358
+IN,4138
+KS,4260
+KY,7432
+LA,3075
 MA,1332
 MD,2174
-Maine,2151
-Michigan,4497
-Ohio,6
-Minnesota,3740
-Missouri,6232
-Mississippi,4320
-Montana,2075
-North Carolina,6547
-North Dakota,1874
-Nebraska,2746
-New Hampshire,896
-New Jersey,1531
-New Mexico,1511
-Nevada,709
-New York,6111
-Ohio,5537
-Oklahoma,3428
-Oregon,2179
-Pennsylvania,8534
-Rhode Island,244
-South Carolina,3133
-South Dakota,1983
-Tennessee,6025
-Texas,7772
-Utah,810
-Virginia,7085
-Vermont,783
-Washington,2289
-Wisconsin,3804
-West Virginia,4926
-Wyoming,1003
+ME,2151
+MI,4497
+MI/OH,6
+MN,3740
+MO,6232
+MS,4320
+MT,2075
+NC,6547
+ND,1874
+NE,2746
+NH,896
+NJ,1531
+NM,1511
+NV,709
+NY,6111
+OH,5537
+OK,3428
+OR,2179
+PA,8534
+RI,244
+SC,3133
+SD,1983
+TN,6025
+TX,7772
+UT,810
+VA,7085
+VAy,1
+VT,783
+WA,2289
+WI,3804
+WV,4926
+WY,1003
